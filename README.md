@@ -2,8 +2,6 @@
 
 ## How to reproduce
 
-Run the generator and enter `next` when prompted
-
 0. Check puck.config.tsx
 
 1. Start the server
